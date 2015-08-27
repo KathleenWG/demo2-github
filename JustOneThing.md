@@ -1,2 +1,2 @@
 **Barry**: Git and GitHub has a step learning curve  
-**Student**: It is not that bad
+**Kathleen**: Git pull and push can be confusing
